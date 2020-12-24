@@ -28,8 +28,8 @@
 
   
 
-<img src = "https://github-readme-stats.vercel.app/api?username=hasanuzzaman-dev&show_icons=true&card_width=550">
+<img width="550" src = "https://github-readme-stats.vercel.app/api?username=hasanuzzaman-dev&show_icons=true">
 
-<img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=hasanuzzaman-dev&card_width=550">
-<img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=hasanuzzaman-dev&layout=compact&card_width=550">
+<img width="550" src = "https://github-readme-stats.vercel.app/api/top-langs/?username=hasanuzzaman-dev">
+<img width="550" src = "https://github-readme-stats.vercel.app/api/top-langs/?username=hasanuzzaman-dev&layout=compact">
 
