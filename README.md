@@ -7,7 +7,7 @@
 - 💬 Ask me about Java or Android related stuff.
 - 📫 How to reach me: [Email - hasanuzzaman.dev@gmail.com](https://mail.google.com/mail/u/0/?tab=rm&ogbl#inbox?compose=CllgCJfprmLvjnxCfJkgGCqHCtxWpBdSxGrqFpKcdpldCnxxSbbLJRctWNbMGkmcBgbfvGFvmzg), [Facebook - @hasan.zaman70](https://www.facebook.com/hasan.zaman70/) , [Skype - @hasan.zaman70]
 - 😄 Pronouns: He/His
-- ⚡ Fun fact:  I love to travel and explore different programming languages
+- ⚡ Fun fact:  I love footbal and explore different programming languages
 
 **Languages and Tools:**  
 
