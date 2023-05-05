@@ -2,7 +2,7 @@
 
 ## I'm Android and Java Developer!
 - 🔭 I’m currently working at [Cloud Production Ltd](http://cloudproductionltd.com/).
-- 🌱 I’m currently learning more about Java,Android and Web3.
+- 🌱 I’m currently learning more about Java,Spring Boot, Node.js, AWS and Web3.
 - 👯 I’m looking to collaborate on any kind of Java & node based project.
 - 💬 Ask me about Java or Android related stuff.
 - 📫 How to reach me: [Email - hasanuzzaman.dev@gmail.com](https://mail.google.com/mail/u/0/?tab=rm&ogbl#inbox?compose=CllgCJfprmLvjnxCfJkgGCqHCtxWpBdSxGrqFpKcdpldCnxxSbbLJRctWNbMGkmcBgbfvGFvmzg), [Facebook - @hasan.zaman70](https://www.facebook.com/hasan.zaman70/) , [Skype - @hasan.zaman70]
