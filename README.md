@@ -5,7 +5,7 @@
 - 🌱 I’m currently learning more about Java,Spring Boot, Node.js, AWS and Web3.
 - 👯 I’m looking to collaborate on any kind of Java & node based project.
 - 💬 Ask me about Java or Android related stuff.
-- 📫 How to reach me: [Email - hasanuzzaman.dev@gmail.com](https://mail.google.com/mail/u/0/?tab=rm&ogbl#inbox?compose=CllgCJfprmLvjnxCfJkgGCqHCtxWpBdSxGrqFpKcdpldCnxxSbbLJRctWNbMGkmcBgbfvGFvmzg), [Facebook - @hasan.zaman70](https://www.facebook.com/hasan.zaman70/) , [Skype - @hasan.zaman70]
+- 📫 How to reach me: [Email - hasanuzzaman.dev@gmail.com](https://mail.google.com/mail/u/0/?tab=rm&ogbl#inbox?compose=CllgCJfprmLvjnxCfJkgGCqHCtxWpBdSxGrqFpKcdpldCnxxSbbLJRctWNbMGkmcBgbfvGFvmzg), [Facebook - @hasan.zaman70](https://www.facebook.com/hasanuzzaman.dev/) , [Skype - @hasan.zaman70]
 - 😄 Pronouns: He/His
 - ⚡ Fun fact:  I love football ⚽⚽⚽ and explore different programming languages
 
