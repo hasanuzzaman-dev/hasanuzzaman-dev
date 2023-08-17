@@ -35,6 +35,6 @@
 
 <img width="550" src = "https://github-readme-stats-sigma-five.vercel.app/api?username=hasanuzzaman-dev&show_icons=true">
 
-<img width="550" src = "https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=hasanuzzaman-dev">
+<img width="550" src = "https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=hasanuzzaman-dev&theme=react&line_height=40&hide=css">
 <img width="550" src = "https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=hasanuzzaman-dev&layout=compact">
 
