@@ -1,6 +1,6 @@
 ### Hi there, I am Hasanuzzaman👋
 
-## I'm an Android and Java Developer!
+## I'm a Java Application Developer!
 - 🔭 I’m currently working at [United Hospital Ltd](https://www.uhlbd.com/).
 - 🌱 I’m learning more about Java, Spring Boot, Node.js, AWS, and Web3.
 - 👯 I’m looking to collaborate on any Java & node-based project.
